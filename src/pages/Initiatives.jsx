@@ -1,4 +1,12 @@
+import InitiativeTable from '../components/InitiativeTable'
+
 const Initiatives = () => {
-    return <h1>hello 2</h1>
+  return (
+    <div>
+      <h2 className="text-2xl font-bold text-blue-900 mb-6">Initiative Tracker</h2>
+      <InitiativeTable />
+    </div>
+  )
 }
+
 export default Initiatives

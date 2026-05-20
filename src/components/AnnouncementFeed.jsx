@@ -1,7 +1,7 @@
 const announcements = [
-  { id: 1, date: "May 15, 2025", message: "New peace dialogue scheduled in Ngong Hills this Friday." },
-  { id: 2, date: "May 10, 2025", message: "APMI Leadership graduation ceremony — 42 new certified leaders." },
-  { id: 3, date: "May 3, 2025", message: "Kajiado youth mentorship program now accepting applications." },
+  { id: 1, date: "May 15, 2026", message: "New peace dialogue scheduled in Ngong Hills this Friday." },
+  { id: 2, date: "May 10, 2026", message: "APMI Leadership graduation ceremony — 42 new certified leaders." },
+  { id: 3, date: "May 3, 2026", message: "Kajiado youth mentorship program now accepting applications." },
 ]
 
 const AnnouncementFeed = () => {
